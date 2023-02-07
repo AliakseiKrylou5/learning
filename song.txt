@@ -2,11 +2,3 @@ pam-param-papam
 parararararam
 pam-param-papam
 parararararam
-
-pam-param-papam
-parararararam
-
-pam-param-papam
-parararararam
-pam-param-papam
-parararararam
